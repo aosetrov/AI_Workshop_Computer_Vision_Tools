@@ -20,6 +20,10 @@ Note: use Tensorflow 1.x, not 2.x
 
 **Brief files description:**
 
+"Computer_Vision_Introduction_2021.pptx"
+
+Contains a brief intro on some Computer Vision sub-sections
+
 "object_detection.ipynb"
 
 Contains examples of common objects detection from COCO dataset along with face detection from images.
